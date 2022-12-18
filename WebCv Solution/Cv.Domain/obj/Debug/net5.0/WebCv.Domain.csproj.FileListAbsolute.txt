@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\bin\Debug\net5.0\WebCv.Domain.deps.json
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\bin\Debug\net5.0\WebCv.Domain.runtimeconfig.json
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\bin\Debug\net5.0\WebCv.Domain.runtimeconfig.dev.json
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\bin\Debug\net5.0\WebCv.Domain.dll
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\bin\Debug\net5.0\ref\WebCv.Domain.dll
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\bin\Debug\net5.0\WebCv.Domain.pdb
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\WebCv.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\WebCv.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\WebCv.Domain.AssemblyInfo.cs
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\WebCv.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\WebCv.Domain.dll
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\ref\WebCv.Domain.dll
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\WebCv.Domain.pdb
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\WebCv.Domain.genruntimeconfig.cache
+C:\Users\hp\Desktop\WebCv Solution\Cv.Domain\obj\Debug\net5.0\WebCv.Domain.csproj.AssemblyReference.cache
